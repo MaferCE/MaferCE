@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 I’m ecuadorian, I’m a student of UTMACH
+- I currently working on foreing languages...
 <!--
 **MaferCE/MaferCE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
